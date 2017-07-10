@@ -1,0 +1,21 @@
+﻿Build started 03/06/2013 09:54:45 p.m..
+     1>Project "C:\Proyectos_PIC\ESSPICComunication\ESSPICComunication.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\ESSPICComunication.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\ESSPICComunication.unsuccessfulbuild".
+         Touching "Debug\ESSPICComunication.lastbuildstate".
+     1>Done Building Project "C:\Proyectos_PIC\ESSPICComunication\ESSPICComunication.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.15
